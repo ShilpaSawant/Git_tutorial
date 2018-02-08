@@ -1,3 +1,3 @@
 <?php 
-echo "Second branch Superadmin test file";
+echo "Master branch Superadmin test file";
 ?>
